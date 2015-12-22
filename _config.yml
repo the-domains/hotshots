@@ -1,7 +1,7 @@
 name: hotshots
 favicon: null
-layout_spectrum: 0.08056395780295134
-typography_spectrum: 0.08616741886362433
+layout_spectrum: 0.00674
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
