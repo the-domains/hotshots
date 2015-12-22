@@ -2,14 +2,66 @@
     <channel>
         <title><![CDATA[hotshots]]></title>
         <description><![CDATA[hotshots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hotshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 08:16:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 08:21:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hotshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Second post]]></title>
+            <description><![CDATA[<article><h1>Second post</h1><p>professional lorem ipsum generator for typographers
+generator.lorem-ipsum.info/
+lorem ipsum copy in various charsets and languages for layouts.
+Lorem ipsum - Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Lorem_ipsum
+In publishing and graphic design, lorem ipsum (derived from Latin dolorem ipsum , translated as "pain itself") is a filler text commonly used to demonstrate the ...
+Lorem Ipsum Generator
+lorem-ipsum.perbang.dk/
+Lorem Ipsum is also known as: Greeked text, blind text, placeholder text, dummy content, filler text, lipsum, and mock-content.
+|| Dummy Text Generator | Lorem ipsum for webdesigners ||
+www.blindtextgenerator.com/
+A handy Lorem Ipsum Generator that helps to create dummy text for all layout needs.
+Samuel L Ipsum: Lorem Ipsum Generator
+slipsum.com/
+Samuel L Ipsum is a Lorem Ipsum Generator, it uses quotes from films which Samuel L Jackson has starred in place of the standard ipsum text.
+Lorem ipsum dolor sit amet - loremipsum.net
+loremipsum.net/
+Translate this page
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ...
+One-Click Lorem Ipsum Generator
+www.ipsum-generator.com/
+Lorem Ipsum Generator. Generate lorem ipsum in paragraphs, words or sentences. Optional html markup - paragraph, italic and bold tags.
+Bacon Ipsum - A Meatier Lorem Ipsum Generator
+baconipsum.com/
+Does your lorem ipsum text long for something a little meatier? Give our generator a try... it's tasty!
+Searches related to lorem ipsum
+lorem ipsum arabic
+lorem ipsum text
+lorem ipsum hebrew
+lorem ipsum greek
+lorem ipsum meaning
+lorem ipsum generator
+lorem ipsum bacon
+lorem ipsum hipster
+1	
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+</p></article>]]></description>
+            <link>https://thegrid.ai/hotshots/second-post/index.html</link>
+            <guid isPermaLink="false">51dd87ab-be94-4f20-85f4-fcd20fc78a2b</guid>
+            <pubDate>Tue, 22 Dec 2015 08:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is this the title for]]></title>
             <description><![CDATA[<article><h1>What is this the title for</h1><p>This is the title.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1f7d935125582c96cb00000042f54ff8cc8b197.png"></article>]]></description>
-            <link>undefinedwhat-is-this-the-title-for/index.html</link>
+            <link>https://thegrid.ai/hotshots/what-is-this-the-title-for/index.html</link>
             <guid isPermaLink="false">c6fdcbae-a7ed-451a-9c3e-3b2f95709f61</guid>
             <pubDate>Tue, 22 Dec 2015 08:15:51 GMT</pubDate>
         </item>
